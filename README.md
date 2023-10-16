@@ -1,11 +1,10 @@
 # map
-ROUTE MAP
 
-Description:
+## Description:
 
 This HTML document displays a map using Mapbox and a button to animate a marker's movement along predefined bus stops between Gandhipuram and Sulur.
 
-How to run the code:
+## How to run the code:
 
 step1:Save the HTML file with .html extension.
 
@@ -13,7 +12,7 @@ step2:Click the "Go Live" button.A new browser window will open, displaying map 
 
 You can also access and run the program [here](https://prakashkumarmca23.github.io/map/).
 
-Future Enhancement:
+## Future Enhancement:
 
 1)Display real-time bus location data on the map for a more practical application.
 
